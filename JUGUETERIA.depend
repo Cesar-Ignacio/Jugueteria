@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1594259940 source:c:\users\usuario\documents\carpeta prog_y_labo_2\jugueteria\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<limits>
+	"GOTOXY.h"
+	"COLOR.h"
+	"LETRAS.h"
+	"CUADRO.h"
+	"CUADROS&LETRAS.h"
+	"VALIDAR NUMERO.h"
+	"VALIDAR FECHA.h"
+	"CLASES.h"
+	"PROTOTIPOS.h"
+	"FUNCIONES.h"
+	"SUBMENUS.h"
+
+1594238818 c:\users\usuario\documents\carpeta prog_y_labo_2\jugueteria\clases.h
+
+1594230389 c:\users\usuario\documents\carpeta prog_y_labo_2\jugueteria\prototipos.h
+
+1594256250 c:\users\usuario\documents\carpeta prog_y_labo_2\jugueteria\funciones.h
+
+1594239349 c:\users\usuario\documents\carpeta prog_y_labo_2\jugueteria\submenus.h
+
+1593049088 c:\users\usuario\documents\carpeta prog_y_labo_2\jugueteria\gotoxy.h
+
+1593048703 c:\users\usuario\documents\carpeta prog_y_labo_2\jugueteria\color.h
+
+1593049679 c:\users\usuario\documents\carpeta prog_y_labo_2\jugueteria\letras.h
+
+1593048839 c:\users\usuario\documents\carpeta prog_y_labo_2\jugueteria\cuadro.h
+
+1593091678 c:\users\usuario\documents\carpeta prog_y_labo_2\jugueteria\cuadros&venta.h
+
+1594257036 c:\users\usuario\documents\carpeta prog_y_labo_2\jugueteria\cuadros&letras.h
+
+1593095959 c:\users\usuario\documents\carpeta prog_y_labo_2\jugueteria\validar numero.h
+
+1593987121 c:\users\usuario\documents\carpeta prog_y_labo_2\jugueteria\validar fecha.h
+
+1594259942 source:c:\users\usuario\downloads\jugueteria\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<limits>
+	"GOTOXY.h"
+	"COLOR.h"
+	"LETRAS.h"
+	"CUADRO.h"
+	"CUADROS&LETRAS.h"
+	"VALIDAR NUMERO.h"
+	"VALIDAR FECHA.h"
+	"CLASES.h"
+	"PROTOTIPOS.h"
+	"FUNCIONES.h"
+	"SUBMENUS.h"
+
+1593049090 c:\users\usuario\downloads\jugueteria\gotoxy.h
+
+1593048704 c:\users\usuario\downloads\jugueteria\color.h
+
+1593049680 c:\users\usuario\downloads\jugueteria\letras.h
+
+1593048840 c:\users\usuario\downloads\jugueteria\cuadro.h
+
+1594257038 c:\users\usuario\downloads\jugueteria\cuadros&letras.h
+
+1593095960 c:\users\usuario\downloads\jugueteria\validar numero.h
+
+1593987122 c:\users\usuario\downloads\jugueteria\validar fecha.h
+
+1594238820 c:\users\usuario\downloads\jugueteria\clases.h
+
+1594230390 c:\users\usuario\downloads\jugueteria\prototipos.h
+
+1594256252 c:\users\usuario\downloads\jugueteria\funciones.h
+
+1594239350 c:\users\usuario\downloads\jugueteria\submenus.h
+
